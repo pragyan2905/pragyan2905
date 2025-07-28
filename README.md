@@ -81,6 +81,4 @@ A developer with a professional focus in Data Science and Machine Learning. My w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyan2905&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyan2905&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
