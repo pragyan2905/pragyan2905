@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Namaste!&fontSize=90&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFF2E0&height=200&section=header&text=Namaste!&fontSize=90&fontAlign=50" />
 </p>
 
 <h1 align="center">Pragyan Sharma</h1>
