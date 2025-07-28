@@ -72,12 +72,4 @@ A developer with a professional focus in Data Science and Machine Learning. My w
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pragyan2905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pragyan's GitHub Stats" />
-    <br/>
-    <img src="https://streak-stats.demolab.com?user=pragyan2905&theme=tokyonight&hide_border=true" alt="Pragyan's GitHub Streak" />
-    <br/>
-    
-</p>
