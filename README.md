@@ -1,61 +1,83 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🙏+Namaste!+Welcome+to+my+GitHub;I+debate+and+code+sometimes.;Where+ideas+meet+execution.&font=Fira+Code&center=true&width=900&height=50&color=58A6FF&vCenter=true&pause=1000" />
-</div>
-
-<!-- Decorative Frame with Thinkers -->
 <p align="center">
-  <strong>
-    ┌───────────────────────────────────────────────────────────────┐<br>
-    | Rousseau • Ambedkar • Tagore • Marx • Nietzsche • Plato •    |<br>
-    | Foucault • Mill • Kant • Gramsci • Hume • Locke • Hegel •    |<br>
-    | Schopenhauer • Simone de Beauvoir • Bentham • Hobbes •       |<br>
-    | Adam Smith • John M. Keynes • Machiavelli • Kautilya • Burke |<br>
-    └───────────────────────────────────────────────────────────────┘
-  </strong>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Namaste!&fontSize=90&fontAlign=50" />
+</p>
+
+<h1 align="center">Pragyan Sharma</h1>
+<p align="center"><i>"I can debate and I code sometimes"</i></p>
+
+<p align="center">
+  <a href="https://github.com/pragyan2905">
+    <img src="https://komarev.com/ghpvc/?username=pragyan2905&label=Profile%20Views&color=0e75b6&style=flat-square" alt="pragyan2905" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-
-# **Pragyan Sharma**
-
-_I debate and code sometimes._
-
-</div>
-
----
-
-## 👨‍💻 About Me
+### About Me
 
 A developer with a professional focus in Data Science and Machine Learning. My work involves applying data-driven techniques to solve complex problems across the full project lifecycle.
 
-Key Interests: Data Analysis, Predictive Modeling, Agentic AI, and Large Language Models.
+-   **Key Interests**: Data Analysis, Predictive Modeling, Agentic AI, and Large Language Models.
 
 ---
 
-## 🔗 Connect with Me
+### Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pragyan-sharma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/pragyan-sharma-48290131a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/pragyan.2905" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sharmapragyan2905@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-```bash
-💻 Languages     : Python, C++, C  
-🌐 Web Dev       : HTML, CSS, JavaScript, Streamlit  
-📊 Data Analysis : Pandas, NumPy, Seaborn, Matplotlib, scikit-learn  
-🧠 ML/NLP        : Transformers, BERT, NLTK, TextBlob, spaCy  
-🛢️ Databases     : MySQL, Firebase, PostgreSQL, MongoDB  
-⚙️ Tools         : Git, Jupyter, VS Code, Postman, GitHub Actions
+#### Languages
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### Data Science & Machine Learning
+<p>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+#### Databases
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+#### Tools & Platforms
+<p>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pragyan2905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pragyan's GitHub Stats" />
+    <br/>
+    <img src="https://streak-stats.demolab.com?user=pragyan2905&theme=tokyonight&hide_border=true" alt="Pragyan's GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyan2905&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Pragyan's Top Languages" />
+</p>
