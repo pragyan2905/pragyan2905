@@ -75,15 +75,15 @@ A developer with a professional focus in Data Science and Machine Learning. My w
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pragyan2905&show_icons=true&theme=tokyonight" 
-       alt="Pragyan's GitHub Stats" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=pragyan2905&show_icons=true&theme=tokyonight" 
+    alt="Pragyan's GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pragyan2905&layout=compact&theme=tokyonight" 
-       alt="Top Languages" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pragyan2905&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
   />
 </p>
 
