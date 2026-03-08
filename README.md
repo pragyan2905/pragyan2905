@@ -15,9 +15,9 @@
 
 ### About Me
 
-Focused on Machine Learning and Data Science, working on building predictive models and data-driven systems. Interested in applied machine learning, model optimization, and working with real-world datasets.
+Focused on Machine Learning and Data Science, working on building predictive models and data-driven systems. Interested in applying machine learning techniques to real-world datasets and developing practical AI systems.
 
-- **Key Interests:** Machine Learning, Predictive Modeling, Agentic AI, Large Language Models
+- **Key Interests:** Machine Learning, Deep Learning, Generative AI, Large Language Models
 
 ---
 
@@ -57,21 +57,16 @@ Focused on Machine Learning and Data Science, working on building predictive mod
 #### Databases
 <p>
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Pinecone-1E88E5?style=for-the-badge" />
     <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
 </p>
 
-#### Tools & Platforms
+#### Tools
 <p>
     <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
